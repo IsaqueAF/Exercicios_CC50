@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: Sort1 takes about 7 seconds to sort the random50000.txt file, the same for the reversed50000.txt file, but the sorted50000.txt file takes very little time to be sorted.
+
+sort2 uses: merge sort
+
+How do you know?: Sort2 is the fastest at organizing .txt files.
+
+sort3 uses: selection sort
+
+How do you know?: Sort3 takes longer to organize files than sort2, but takes the same amount of time to organize files of the same size.
